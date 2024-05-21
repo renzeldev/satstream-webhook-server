@@ -1,0 +1,5 @@
+{
+	"domain": "web-sat.stream",
+	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03c8237f9a0b1a5d9a833e85c1c481ca319a",
+	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03c8237f9a0b1a5d9a833e85c1c481ca319a"
+}
